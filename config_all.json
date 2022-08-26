@@ -1,0 +1,4006 @@
+{
+    "name": "Common Identifiable Information",
+    "columns": ["text"],
+    "rules": [
+        {
+          "name": "a",
+          "regex": "a"
+        },
+        {
+          "name": "ability",
+          "regex": "ability"
+        },
+        {
+          "name": "able",
+          "regex": "able"
+        },
+        {
+          "name": "about",
+          "regex": "about"
+        },
+        {
+          "name": "above",
+          "regex": "above"
+        },
+        {
+          "name": "accept",
+          "regex": "accept"
+        },
+        {
+          "name": "according",
+          "regex": "according"
+        },
+        {
+          "name": "account",
+          "regex": "account"
+        },
+        {
+          "name": "across",
+          "regex": "across"
+        },
+        {
+          "name": "act",
+          "regex": "act"
+        },
+        {
+          "name": "action",
+          "regex": "action"
+        },
+        {
+          "name": "activity",
+          "regex": "activity"
+        },
+        {
+          "name": "actually",
+          "regex": "actually"
+        },
+        {
+          "name": "add",
+          "regex": "add"
+        },
+        {
+          "name": "address",
+          "regex": "address"
+        },
+        {
+          "name": "administration",
+          "regex": "administration"
+        },
+        {
+          "name": "admit",
+          "regex": "admit"
+        },
+        {
+          "name": "adult",
+          "regex": "adult"
+        },
+        {
+          "name": "affect",
+          "regex": "affect"
+        },
+        {
+          "name": "after",
+          "regex": "after"
+        },
+        {
+          "name": "again",
+          "regex": "again"
+        },
+        {
+          "name": "against",
+          "regex": "against"
+        },
+        {
+          "name": "age",
+          "regex": "age"
+        },
+        {
+          "name": "agency",
+          "regex": "agency"
+        },
+        {
+          "name": "agent",
+          "regex": "agent"
+        },
+        {
+          "name": "ago",
+          "regex": "ago"
+        },
+        {
+          "name": "agree",
+          "regex": "agree"
+        },
+        {
+          "name": "agreement",
+          "regex": "agreement"
+        },
+        {
+          "name": "ahead",
+          "regex": "ahead"
+        },
+        {
+          "name": "air",
+          "regex": "air"
+        },
+        {
+          "name": "all",
+          "regex": "all"
+        },
+        {
+          "name": "allow",
+          "regex": "allow"
+        },
+        {
+          "name": "almost",
+          "regex": "almost"
+        },
+        {
+          "name": "alone",
+          "regex": "alone"
+        },
+        {
+          "name": "along",
+          "regex": "along"
+        },
+        {
+          "name": "already",
+          "regex": "already"
+        },
+        {
+          "name": "also",
+          "regex": "also"
+        },
+        {
+          "name": "although",
+          "regex": "although"
+        },
+        {
+          "name": "always",
+          "regex": "always"
+        },
+        {
+          "name": "American",
+          "regex": "American"
+        },
+        {
+          "name": "among",
+          "regex": "among"
+        },
+        {
+          "name": "amount",
+          "regex": "amount"
+        },
+        {
+          "name": "analysis",
+          "regex": "analysis"
+        },
+        {
+          "name": "and",
+          "regex": "and"
+        },
+        {
+          "name": "animal",
+          "regex": "animal"
+        },
+        {
+          "name": "another",
+          "regex": "another"
+        },
+        {
+          "name": "answer",
+          "regex": "answer"
+        },
+        {
+          "name": "any",
+          "regex": "any"
+        },
+        {
+          "name": "anyone",
+          "regex": "anyone"
+        },
+        {
+          "name": "anything",
+          "regex": "anything"
+        },
+        {
+          "name": "appear",
+          "regex": "appear"
+        },
+        {
+          "name": "apply",
+          "regex": "apply"
+        },
+        {
+          "name": "approach",
+          "regex": "approach"
+        },
+        {
+          "name": "area",
+          "regex": "area"
+        },
+        {
+          "name": "argue",
+          "regex": "argue"
+        },
+        {
+          "name": "arm",
+          "regex": "arm"
+        },
+        {
+          "name": "around",
+          "regex": "around"
+        },
+        {
+          "name": "arrive",
+          "regex": "arrive"
+        },
+        {
+          "name": "art",
+          "regex": "art"
+        },
+        {
+          "name": "article",
+          "regex": "article"
+        },
+        {
+          "name": "artist",
+          "regex": "artist"
+        },
+        {
+          "name": "as",
+          "regex": "as"
+        },
+        {
+          "name": "ask",
+          "regex": "ask"
+        },
+        {
+          "name": "assume",
+          "regex": "assume"
+        },
+        {
+          "name": "at",
+          "regex": "at"
+        },
+        {
+          "name": "attack",
+          "regex": "attack"
+        },
+        {
+          "name": "attention",
+          "regex": "attention"
+        },
+        {
+          "name": "attorney",
+          "regex": "attorney"
+        },
+        {
+          "name": "audience",
+          "regex": "audience"
+        },
+        {
+          "name": "author",
+          "regex": "author"
+        },
+        {
+          "name": "authority",
+          "regex": "authority"
+        },
+        {
+          "name": "available",
+          "regex": "available"
+        },
+        {
+          "name": "avoid",
+          "regex": "avoid"
+        },
+        {
+          "name": "away",
+          "regex": "away"
+        },
+        {
+          "name": "baby",
+          "regex": "baby"
+        },
+        {
+          "name": "back",
+          "regex": "back"
+        },
+        {
+          "name": "bad",
+          "regex": "bad"
+        },
+        {
+          "name": "bag",
+          "regex": "bag"
+        },
+        {
+          "name": "ball",
+          "regex": "ball"
+        },
+        {
+          "name": "bank",
+          "regex": "bank"
+        },
+        {
+          "name": "bar",
+          "regex": "bar"
+        },
+        {
+          "name": "base",
+          "regex": "base"
+        },
+        {
+          "name": "be",
+          "regex": "be"
+        },
+        {
+          "name": "beat",
+          "regex": "beat"
+        },
+        {
+          "name": "beautiful",
+          "regex": "beautiful"
+        },
+        {
+          "name": "because",
+          "regex": "because"
+        },
+        {
+          "name": "become",
+          "regex": "become"
+        },
+        {
+          "name": "bed",
+          "regex": "bed"
+        },
+        {
+          "name": "before",
+          "regex": "before"
+        },
+        {
+          "name": "begin",
+          "regex": "begin"
+        },
+        {
+          "name": "behavior",
+          "regex": "behavior"
+        },
+        {
+          "name": "behind",
+          "regex": "behind"
+        },
+        {
+          "name": "believe",
+          "regex": "believe"
+        },
+        {
+          "name": "benefit",
+          "regex": "benefit"
+        },
+        {
+          "name": "best",
+          "regex": "best"
+        },
+        {
+          "name": "better",
+          "regex": "better"
+        },
+        {
+          "name": "between",
+          "regex": "between"
+        },
+        {
+          "name": "beyond",
+          "regex": "beyond"
+        },
+        {
+          "name": "big",
+          "regex": "big"
+        },
+        {
+          "name": "bill",
+          "regex": "bill"
+        },
+        {
+          "name": "billion",
+          "regex": "billion"
+        },
+        {
+          "name": "bit",
+          "regex": "bit"
+        },
+        {
+          "name": "black",
+          "regex": "black"
+        },
+        {
+          "name": "blood",
+          "regex": "blood"
+        },
+        {
+          "name": "blue",
+          "regex": "blue"
+        },
+        {
+          "name": "board",
+          "regex": "board"
+        },
+        {
+          "name": "body",
+          "regex": "body"
+        },
+        {
+          "name": "book",
+          "regex": "book"
+        },
+        {
+          "name": "born",
+          "regex": "born"
+        },
+        {
+          "name": "both",
+          "regex": "both"
+        },
+        {
+          "name": "box",
+          "regex": "box"
+        },
+        {
+          "name": "boy",
+          "regex": "boy"
+        },
+        {
+          "name": "break",
+          "regex": "break"
+        },
+        {
+          "name": "bring",
+          "regex": "bring"
+        },
+        {
+          "name": "brother",
+          "regex": "brother"
+        },
+        {
+          "name": "budget",
+          "regex": "budget"
+        },
+        {
+          "name": "build",
+          "regex": "build"
+        },
+        {
+          "name": "building",
+          "regex": "building"
+        },
+        {
+          "name": "business",
+          "regex": "business"
+        },
+        {
+          "name": "but",
+          "regex": "but"
+        },
+        {
+          "name": "buy",
+          "regex": "buy"
+        },
+        {
+          "name": "by",
+          "regex": "by"
+        },
+        {
+          "name": "call",
+          "regex": "call"
+        },
+        {
+          "name": "camera",
+          "regex": "camera"
+        },
+        {
+          "name": "campaign",
+          "regex": "campaign"
+        },
+        {
+          "name": "can",
+          "regex": "can"
+        },
+        {
+          "name": "cancer",
+          "regex": "cancer"
+        },
+        {
+          "name": "candidate",
+          "regex": "candidate"
+        },
+        {
+          "name": "capital",
+          "regex": "capital"
+        },
+        {
+          "name": "car",
+          "regex": "car"
+        },
+        {
+          "name": "card",
+          "regex": "card"
+        },
+        {
+          "name": "care",
+          "regex": "care"
+        },
+        {
+          "name": "career",
+          "regex": "career"
+        },
+        {
+          "name": "carry",
+          "regex": "carry"
+        },
+        {
+          "name": "case",
+          "regex": "case"
+        },
+        {
+          "name": "catch",
+          "regex": "catch"
+        },
+        {
+          "name": "cause",
+          "regex": "cause"
+        },
+        {
+          "name": "cell",
+          "regex": "cell"
+        },
+        {
+          "name": "center",
+          "regex": "center"
+        },
+        {
+          "name": "central",
+          "regex": "central"
+        },
+        {
+          "name": "century",
+          "regex": "century"
+        },
+        {
+          "name": "certain",
+          "regex": "certain"
+        },
+        {
+          "name": "certainly",
+          "regex": "certainly"
+        },
+        {
+          "name": "chair",
+          "regex": "chair"
+        },
+        {
+          "name": "challenge",
+          "regex": "challenge"
+        },
+        {
+          "name": "chance",
+          "regex": "chance"
+        },
+        {
+          "name": "change",
+          "regex": "change"
+        },
+        {
+          "name": "character",
+          "regex": "character"
+        },
+        {
+          "name": "charge",
+          "regex": "charge"
+        },
+        {
+          "name": "check",
+          "regex": "check"
+        },
+        {
+          "name": "child",
+          "regex": "child"
+        },
+        {
+          "name": "choice",
+          "regex": "choice"
+        },
+        {
+          "name": "choose",
+          "regex": "choose"
+        },
+        {
+          "name": "church",
+          "regex": "church"
+        },
+        {
+          "name": "citizen",
+          "regex": "citizen"
+        },
+        {
+          "name": "city",
+          "regex": "city"
+        },
+        {
+          "name": "civil",
+          "regex": "civil"
+        },
+        {
+          "name": "claim",
+          "regex": "claim"
+        },
+        {
+          "name": "class",
+          "regex": "class"
+        },
+        {
+          "name": "clear",
+          "regex": "clear"
+        },
+        {
+          "name": "clearly",
+          "regex": "clearly"
+        },
+        {
+          "name": "close",
+          "regex": "close"
+        },
+        {
+          "name": "coach",
+          "regex": "coach"
+        },
+        {
+          "name": "cold",
+          "regex": "cold"
+        },
+        {
+          "name": "collection",
+          "regex": "collection"
+        },
+        {
+          "name": "college",
+          "regex": "college"
+        },
+        {
+          "name": "color",
+          "regex": "color"
+        },
+        {
+          "name": "come",
+          "regex": "come"
+        },
+        {
+          "name": "commercial",
+          "regex": "commercial"
+        },
+        {
+          "name": "common",
+          "regex": "common"
+        },
+        {
+          "name": "community",
+          "regex": "community"
+        },
+        {
+          "name": "company",
+          "regex": "company"
+        },
+        {
+          "name": "compare",
+          "regex": "compare"
+        },
+        {
+          "name": "computer",
+          "regex": "computer"
+        },
+        {
+          "name": "concern",
+          "regex": "concern"
+        },
+        {
+          "name": "condition",
+          "regex": "condition"
+        },
+        {
+          "name": "conference",
+          "regex": "conference"
+        },
+        {
+          "name": "Congress",
+          "regex": "Congress"
+        },
+        {
+          "name": "consider",
+          "regex": "consider"
+        },
+        {
+          "name": "consumer",
+          "regex": "consumer"
+        },
+        {
+          "name": "contain",
+          "regex": "contain"
+        },
+        {
+          "name": "continue",
+          "regex": "continue"
+        },
+        {
+          "name": "control",
+          "regex": "control"
+        },
+        {
+          "name": "cost",
+          "regex": "cost"
+        },
+        {
+          "name": "could",
+          "regex": "could"
+        },
+        {
+          "name": "country",
+          "regex": "country"
+        },
+        {
+          "name": "couple",
+          "regex": "couple"
+        },
+        {
+          "name": "course",
+          "regex": "course"
+        },
+        {
+          "name": "court",
+          "regex": "court"
+        },
+        {
+          "name": "cover",
+          "regex": "cover"
+        },
+        {
+          "name": "create",
+          "regex": "create"
+        },
+        {
+          "name": "crime",
+          "regex": "crime"
+        },
+        {
+          "name": "cultural",
+          "regex": "cultural"
+        },
+        {
+          "name": "culture",
+          "regex": "culture"
+        },
+        {
+          "name": "cup",
+          "regex": "cup"
+        },
+        {
+          "name": "current",
+          "regex": "current"
+        },
+        {
+          "name": "customer",
+          "regex": "customer"
+        },
+        {
+          "name": "cut",
+          "regex": "cut"
+        },
+        {
+          "name": "dark",
+          "regex": "dark"
+        },
+        {
+          "name": "data",
+          "regex": "data"
+        },
+        {
+          "name": "daughter",
+          "regex": "daughter"
+        },
+        {
+          "name": "day",
+          "regex": "day"
+        },
+        {
+          "name": "dead",
+          "regex": "dead"
+        },
+        {
+          "name": "deal",
+          "regex": "deal"
+        },
+        {
+          "name": "death",
+          "regex": "death"
+        },
+        {
+          "name": "debate",
+          "regex": "debate"
+        },
+        {
+          "name": "decade",
+          "regex": "decade"
+        },
+        {
+          "name": "decide",
+          "regex": "decide"
+        },
+        {
+          "name": "decision",
+          "regex": "decision"
+        },
+        {
+          "name": "deep",
+          "regex": "deep"
+        },
+        {
+          "name": "defense",
+          "regex": "defense"
+        },
+        {
+          "name": "degree",
+          "regex": "degree"
+        },
+        {
+          "name": "Democrat",
+          "regex": "Democrat"
+        },
+        {
+          "name": "democratic",
+          "regex": "democratic"
+        },
+        {
+          "name": "describe",
+          "regex": "describe"
+        },
+        {
+          "name": "design",
+          "regex": "design"
+        },
+        {
+          "name": "despite",
+          "regex": "despite"
+        },
+        {
+          "name": "detail",
+          "regex": "detail"
+        },
+        {
+          "name": "determine",
+          "regex": "determine"
+        },
+        {
+          "name": "develop",
+          "regex": "develop"
+        },
+        {
+          "name": "development",
+          "regex": "development"
+        },
+        {
+          "name": "die",
+          "regex": "die"
+        },
+        {
+          "name": "difference",
+          "regex": "difference"
+        },
+        {
+          "name": "different",
+          "regex": "different"
+        },
+        {
+          "name": "difficult",
+          "regex": "difficult"
+        },
+        {
+          "name": "dinner",
+          "regex": "dinner"
+        },
+        {
+          "name": "direction",
+          "regex": "direction"
+        },
+        {
+          "name": "director",
+          "regex": "director"
+        },
+        {
+          "name": "discover",
+          "regex": "discover"
+        },
+        {
+          "name": "discuss",
+          "regex": "discuss"
+        },
+        {
+          "name": "discussion",
+          "regex": "discussion"
+        },
+        {
+          "name": "disease",
+          "regex": "disease"
+        },
+        {
+          "name": "do",
+          "regex": "do"
+        },
+        {
+          "name": "doctor",
+          "regex": "doctor"
+        },
+        {
+          "name": "dog",
+          "regex": "dog"
+        },
+        {
+          "name": "door",
+          "regex": "door"
+        },
+        {
+          "name": "down",
+          "regex": "down"
+        },
+        {
+          "name": "draw",
+          "regex": "draw"
+        },
+        {
+          "name": "dream",
+          "regex": "dream"
+        },
+        {
+          "name": "drive",
+          "regex": "drive"
+        },
+        {
+          "name": "drop",
+          "regex": "drop"
+        },
+        {
+          "name": "drug",
+          "regex": "drug"
+        },
+        {
+          "name": "during",
+          "regex": "during"
+        },
+        {
+          "name": "each",
+          "regex": "each"
+        },
+        {
+          "name": "early",
+          "regex": "early"
+        },
+        {
+          "name": "east",
+          "regex": "east"
+        },
+        {
+          "name": "easy",
+          "regex": "easy"
+        },
+        {
+          "name": "eat",
+          "regex": "eat"
+        },
+        {
+          "name": "economic",
+          "regex": "economic"
+        },
+        {
+          "name": "economy",
+          "regex": "economy"
+        },
+        {
+          "name": "edge",
+          "regex": "edge"
+        },
+        {
+          "name": "education",
+          "regex": "education"
+        },
+        {
+          "name": "effect",
+          "regex": "effect"
+        },
+        {
+          "name": "effort",
+          "regex": "effort"
+        },
+        {
+          "name": "eight",
+          "regex": "eight"
+        },
+        {
+          "name": "either",
+          "regex": "either"
+        },
+        {
+          "name": "election",
+          "regex": "election"
+        },
+        {
+          "name": "else",
+          "regex": "else"
+        },
+        {
+          "name": "employee",
+          "regex": "employee"
+        },
+        {
+          "name": "end",
+          "regex": "end"
+        },
+        {
+          "name": "energy",
+          "regex": "energy"
+        },
+        {
+          "name": "enjoy",
+          "regex": "enjoy"
+        },
+        {
+          "name": "enough",
+          "regex": "enough"
+        },
+        {
+          "name": "enter",
+          "regex": "enter"
+        },
+        {
+          "name": "entire",
+          "regex": "entire"
+        },
+        {
+          "name": "environment",
+          "regex": "environment"
+        },
+        {
+          "name": "environmental",
+          "regex": "environmental"
+        },
+        {
+          "name": "especially",
+          "regex": "especially"
+        },
+        {
+          "name": "establish",
+          "regex": "establish"
+        },
+        {
+          "name": "even",
+          "regex": "even"
+        },
+        {
+          "name": "evening",
+          "regex": "evening"
+        },
+        {
+          "name": "event",
+          "regex": "event"
+        },
+        {
+          "name": "ever",
+          "regex": "ever"
+        },
+        {
+          "name": "every",
+          "regex": "every"
+        },
+        {
+          "name": "everybody",
+          "regex": "everybody"
+        },
+        {
+          "name": "everyone",
+          "regex": "everyone"
+        },
+        {
+          "name": "everything",
+          "regex": "everything"
+        },
+        {
+          "name": "evidence",
+          "regex": "evidence"
+        },
+        {
+          "name": "exactly",
+          "regex": "exactly"
+        },
+        {
+          "name": "example",
+          "regex": "example"
+        },
+        {
+          "name": "executive",
+          "regex": "executive"
+        },
+        {
+          "name": "exist",
+          "regex": "exist"
+        },
+        {
+          "name": "expect",
+          "regex": "expect"
+        },
+        {
+          "name": "experience",
+          "regex": "experience"
+        },
+        {
+          "name": "expert",
+          "regex": "expert"
+        },
+        {
+          "name": "explain",
+          "regex": "explain"
+        },
+        {
+          "name": "eye",
+          "regex": "eye"
+        },
+        {
+          "name": "face",
+          "regex": "face"
+        },
+        {
+          "name": "fact",
+          "regex": "fact"
+        },
+        {
+          "name": "factor",
+          "regex": "factor"
+        },
+        {
+          "name": "fail",
+          "regex": "fail"
+        },
+        {
+          "name": "fall",
+          "regex": "fall"
+        },
+        {
+          "name": "family",
+          "regex": "family"
+        },
+        {
+          "name": "far",
+          "regex": "far"
+        },
+        {
+          "name": "fast",
+          "regex": "fast"
+        },
+        {
+          "name": "father",
+          "regex": "father"
+        },
+        {
+          "name": "fear",
+          "regex": "fear"
+        },
+        {
+          "name": "federal",
+          "regex": "federal"
+        },
+        {
+          "name": "feel",
+          "regex": "feel"
+        },
+        {
+          "name": "feeling",
+          "regex": "feeling"
+        },
+        {
+          "name": "few",
+          "regex": "few"
+        },
+        {
+          "name": "field",
+          "regex": "field"
+        },
+        {
+          "name": "fight",
+          "regex": "fight"
+        },
+        {
+          "name": "figure",
+          "regex": "figure"
+        },
+        {
+          "name": "fill",
+          "regex": "fill"
+        },
+        {
+          "name": "film",
+          "regex": "film"
+        },
+        {
+          "name": "final",
+          "regex": "final"
+        },
+        {
+          "name": "finally",
+          "regex": "finally"
+        },
+        {
+          "name": "financial",
+          "regex": "financial"
+        },
+        {
+          "name": "find",
+          "regex": "find"
+        },
+        {
+          "name": "fine",
+          "regex": "fine"
+        },
+        {
+          "name": "finger",
+          "regex": "finger"
+        },
+        {
+          "name": "finish",
+          "regex": "finish"
+        },
+        {
+          "name": "fire",
+          "regex": "fire"
+        },
+        {
+          "name": "firm",
+          "regex": "firm"
+        },
+        {
+          "name": "first",
+          "regex": "first"
+        },
+        {
+          "name": "fish",
+          "regex": "fish"
+        },
+        {
+          "name": "five",
+          "regex": "five"
+        },
+        {
+          "name": "floor",
+          "regex": "floor"
+        },
+        {
+          "name": "fly",
+          "regex": "fly"
+        },
+        {
+          "name": "focus",
+          "regex": "focus"
+        },
+        {
+          "name": "follow",
+          "regex": "follow"
+        },
+        {
+          "name": "food",
+          "regex": "food"
+        },
+        {
+          "name": "foot",
+          "regex": "foot"
+        },
+        {
+          "name": "for",
+          "regex": "for"
+        },
+        {
+          "name": "force",
+          "regex": "force"
+        },
+        {
+          "name": "foreign",
+          "regex": "foreign"
+        },
+        {
+          "name": "forget",
+          "regex": "forget"
+        },
+        {
+          "name": "form",
+          "regex": "form"
+        },
+        {
+          "name": "former",
+          "regex": "former"
+        },
+        {
+          "name": "forward",
+          "regex": "forward"
+        },
+        {
+          "name": "four",
+          "regex": "four"
+        },
+        {
+          "name": "free",
+          "regex": "free"
+        },
+        {
+          "name": "friend",
+          "regex": "friend"
+        },
+        {
+          "name": "from",
+          "regex": "from"
+        },
+        {
+          "name": "front",
+          "regex": "front"
+        },
+        {
+          "name": "full",
+          "regex": "full"
+        },
+        {
+          "name": "fund",
+          "regex": "fund"
+        },
+        {
+          "name": "future",
+          "regex": "future"
+        },
+        {
+          "name": "game",
+          "regex": "game"
+        },
+        {
+          "name": "garden",
+          "regex": "garden"
+        },
+        {
+          "name": "gas",
+          "regex": "gas"
+        },
+        {
+          "name": "general",
+          "regex": "general"
+        },
+        {
+          "name": "generation",
+          "regex": "generation"
+        },
+        {
+          "name": "get",
+          "regex": "get"
+        },
+        {
+          "name": "girl",
+          "regex": "girl"
+        },
+        {
+          "name": "give",
+          "regex": "give"
+        },
+        {
+          "name": "glass",
+          "regex": "glass"
+        },
+        {
+          "name": "go",
+          "regex": "go"
+        },
+        {
+          "name": "goal",
+          "regex": "goal"
+        },
+        {
+          "name": "good",
+          "regex": "good"
+        },
+        {
+          "name": "government",
+          "regex": "government"
+        },
+        {
+          "name": "great",
+          "regex": "great"
+        },
+        {
+          "name": "green",
+          "regex": "green"
+        },
+        {
+          "name": "ground",
+          "regex": "ground"
+        },
+        {
+          "name": "group",
+          "regex": "group"
+        },
+        {
+          "name": "grow",
+          "regex": "grow"
+        },
+        {
+          "name": "growth",
+          "regex": "growth"
+        },
+        {
+          "name": "guess",
+          "regex": "guess"
+        },
+        {
+          "name": "gun",
+          "regex": "gun"
+        },
+        {
+          "name": "guy",
+          "regex": "guy"
+        },
+        {
+          "name": "hair",
+          "regex": "hair"
+        },
+        {
+          "name": "half",
+          "regex": "half"
+        },
+        {
+          "name": "hand",
+          "regex": "hand"
+        },
+        {
+          "name": "hang",
+          "regex": "hang"
+        },
+        {
+          "name": "happen",
+          "regex": "happen"
+        },
+        {
+          "name": "happy",
+          "regex": "happy"
+        },
+        {
+          "name": "hard",
+          "regex": "hard"
+        },
+        {
+          "name": "have",
+          "regex": "have"
+        },
+        {
+          "name": "he",
+          "regex": "he"
+        },
+        {
+          "name": "head",
+          "regex": "head"
+        },
+        {
+          "name": "health",
+          "regex": "health"
+        },
+        {
+          "name": "hear",
+          "regex": "hear"
+        },
+        {
+          "name": "heart",
+          "regex": "heart"
+        },
+        {
+          "name": "heat",
+          "regex": "heat"
+        },
+        {
+          "name": "heavy",
+          "regex": "heavy"
+        },
+        {
+          "name": "help",
+          "regex": "help"
+        },
+        {
+          "name": "her",
+          "regex": "her"
+        },
+        {
+          "name": "here",
+          "regex": "here"
+        },
+        {
+          "name": "herself",
+          "regex": "herself"
+        },
+        {
+          "name": "high",
+          "regex": "high"
+        },
+        {
+          "name": "him",
+          "regex": "him"
+        },
+        {
+          "name": "himself",
+          "regex": "himself"
+        },
+        {
+          "name": "his",
+          "regex": "his"
+        },
+        {
+          "name": "history",
+          "regex": "history"
+        },
+        {
+          "name": "hit",
+          "regex": "hit"
+        },
+        {
+          "name": "hold",
+          "regex": "hold"
+        },
+        {
+          "name": "home",
+          "regex": "home"
+        },
+        {
+          "name": "hope",
+          "regex": "hope"
+        },
+        {
+          "name": "hospital",
+          "regex": "hospital"
+        },
+        {
+          "name": "hot",
+          "regex": "hot"
+        },
+        {
+          "name": "hotel",
+          "regex": "hotel"
+        },
+        {
+          "name": "hour",
+          "regex": "hour"
+        },
+        {
+          "name": "house",
+          "regex": "house"
+        },
+        {
+          "name": "how",
+          "regex": "how"
+        },
+        {
+          "name": "however",
+          "regex": "however"
+        },
+        {
+          "name": "huge",
+          "regex": "huge"
+        },
+        {
+          "name": "human",
+          "regex": "human"
+        },
+        {
+          "name": "hundred",
+          "regex": "hundred"
+        },
+        {
+          "name": "husband",
+          "regex": "husband"
+        },
+        {
+          "name": "I",
+          "regex": "I"
+        },
+        {
+          "name": "idea",
+          "regex": "idea"
+        },
+        {
+          "name": "identify",
+          "regex": "identify"
+        },
+        {
+          "name": "if",
+          "regex": "if"
+        },
+        {
+          "name": "image",
+          "regex": "image"
+        },
+        {
+          "name": "imagine",
+          "regex": "imagine"
+        },
+        {
+          "name": "impact",
+          "regex": "impact"
+        },
+        {
+          "name": "important",
+          "regex": "important"
+        },
+        {
+          "name": "improve",
+          "regex": "improve"
+        },
+        {
+          "name": "in",
+          "regex": "in"
+        },
+        {
+          "name": "include",
+          "regex": "include"
+        },
+        {
+          "name": "including",
+          "regex": "including"
+        },
+        {
+          "name": "increase",
+          "regex": "increase"
+        },
+        {
+          "name": "indeed",
+          "regex": "indeed"
+        },
+        {
+          "name": "indicate",
+          "regex": "indicate"
+        },
+        {
+          "name": "individual",
+          "regex": "individual"
+        },
+        {
+          "name": "industry",
+          "regex": "industry"
+        },
+        {
+          "name": "information",
+          "regex": "information"
+        },
+        {
+          "name": "inside",
+          "regex": "inside"
+        },
+        {
+          "name": "instead",
+          "regex": "instead"
+        },
+        {
+          "name": "institution",
+          "regex": "institution"
+        },
+        {
+          "name": "interest",
+          "regex": "interest"
+        },
+        {
+          "name": "interesting",
+          "regex": "interesting"
+        },
+        {
+          "name": "international",
+          "regex": "international"
+        },
+        {
+          "name": "interview",
+          "regex": "interview"
+        },
+        {
+          "name": "into",
+          "regex": "into"
+        },
+        {
+          "name": "investment",
+          "regex": "investment"
+        },
+        {
+          "name": "involve",
+          "regex": "involve"
+        },
+        {
+          "name": "issue",
+          "regex": "issue"
+        },
+        {
+          "name": "it",
+          "regex": "it"
+        },
+        {
+          "name": "item",
+          "regex": "item"
+        },
+        {
+          "name": "its",
+          "regex": "its"
+        },
+        {
+          "name": "itself",
+          "regex": "itself"
+        },
+        {
+          "name": "job",
+          "regex": "job"
+        },
+        {
+          "name": "join",
+          "regex": "join"
+        },
+        {
+          "name": "just",
+          "regex": "just"
+        },
+        {
+          "name": "keep",
+          "regex": "keep"
+        },
+        {
+          "name": "key",
+          "regex": "key"
+        },
+        {
+          "name": "kid",
+          "regex": "kid"
+        },
+        {
+          "name": "kill",
+          "regex": "kill"
+        },
+        {
+          "name": "kind",
+          "regex": "kind"
+        },
+        {
+          "name": "kitchen",
+          "regex": "kitchen"
+        },
+        {
+          "name": "know",
+          "regex": "know"
+        },
+        {
+          "name": "knowledge",
+          "regex": "knowledge"
+        },
+        {
+          "name": "land",
+          "regex": "land"
+        },
+        {
+          "name": "language",
+          "regex": "language"
+        },
+        {
+          "name": "large",
+          "regex": "large"
+        },
+        {
+          "name": "last",
+          "regex": "last"
+        },
+        {
+          "name": "late",
+          "regex": "late"
+        },
+        {
+          "name": "later",
+          "regex": "later"
+        },
+        {
+          "name": "laugh",
+          "regex": "laugh"
+        },
+        {
+          "name": "law",
+          "regex": "law"
+        },
+        {
+          "name": "lawyer",
+          "regex": "lawyer"
+        },
+        {
+          "name": "lay",
+          "regex": "lay"
+        },
+        {
+          "name": "lead",
+          "regex": "lead"
+        },
+        {
+          "name": "leader",
+          "regex": "leader"
+        },
+        {
+          "name": "learn",
+          "regex": "learn"
+        },
+        {
+          "name": "least",
+          "regex": "least"
+        },
+        {
+          "name": "leave",
+          "regex": "leave"
+        },
+        {
+          "name": "left",
+          "regex": "left"
+        },
+        {
+          "name": "leg",
+          "regex": "leg"
+        },
+        {
+          "name": "legal",
+          "regex": "legal"
+        },
+        {
+          "name": "less",
+          "regex": "less"
+        },
+        {
+          "name": "let",
+          "regex": "let"
+        },
+        {
+          "name": "letter",
+          "regex": "letter"
+        },
+        {
+          "name": "level",
+          "regex": "level"
+        },
+        {
+          "name": "lie",
+          "regex": "lie"
+        },
+        {
+          "name": "life",
+          "regex": "life"
+        },
+        {
+          "name": "light",
+          "regex": "light"
+        },
+        {
+          "name": "like",
+          "regex": "like"
+        },
+        {
+          "name": "likely",
+          "regex": "likely"
+        },
+        {
+          "name": "line",
+          "regex": "line"
+        },
+        {
+          "name": "list",
+          "regex": "list"
+        },
+        {
+          "name": "listen",
+          "regex": "listen"
+        },
+        {
+          "name": "little",
+          "regex": "little"
+        },
+        {
+          "name": "live",
+          "regex": "live"
+        },
+        {
+          "name": "local",
+          "regex": "local"
+        },
+        {
+          "name": "long",
+          "regex": "long"
+        },
+        {
+          "name": "look",
+          "regex": "look"
+        },
+        {
+          "name": "lose",
+          "regex": "lose"
+        },
+        {
+          "name": "loss",
+          "regex": "loss"
+        },
+        {
+          "name": "lot",
+          "regex": "lot"
+        },
+        {
+          "name": "love",
+          "regex": "love"
+        },
+        {
+          "name": "low",
+          "regex": "low"
+        },
+        {
+          "name": "machine",
+          "regex": "machine"
+        },
+        {
+          "name": "magazine",
+          "regex": "magazine"
+        },
+        {
+          "name": "main",
+          "regex": "main"
+        },
+        {
+          "name": "maintain",
+          "regex": "maintain"
+        },
+        {
+          "name": "major",
+          "regex": "major"
+        },
+        {
+          "name": "majority",
+          "regex": "majority"
+        },
+        {
+          "name": "make",
+          "regex": "make"
+        },
+        {
+          "name": "man",
+          "regex": "man"
+        },
+        {
+          "name": "manage",
+          "regex": "manage"
+        },
+        {
+          "name": "management",
+          "regex": "management"
+        },
+        {
+          "name": "manager",
+          "regex": "manager"
+        },
+        {
+          "name": "many",
+          "regex": "many"
+        },
+        {
+          "name": "market",
+          "regex": "market"
+        },
+        {
+          "name": "marriage",
+          "regex": "marriage"
+        },
+        {
+          "name": "material",
+          "regex": "material"
+        },
+        {
+          "name": "matter",
+          "regex": "matter"
+        },
+        {
+          "name": "may",
+          "regex": "may"
+        },
+        {
+          "name": "maybe",
+          "regex": "maybe"
+        },
+        {
+          "name": "me",
+          "regex": "me"
+        },
+        {
+          "name": "mean",
+          "regex": "mean"
+        },
+        {
+          "name": "measure",
+          "regex": "measure"
+        },
+        {
+          "name": "media",
+          "regex": "media"
+        },
+        {
+          "name": "medical",
+          "regex": "medical"
+        },
+        {
+          "name": "meet",
+          "regex": "meet"
+        },
+        {
+          "name": "meeting",
+          "regex": "meeting"
+        },
+        {
+          "name": "member",
+          "regex": "member"
+        },
+        {
+          "name": "memory",
+          "regex": "memory"
+        },
+        {
+          "name": "mention",
+          "regex": "mention"
+        },
+        {
+          "name": "message",
+          "regex": "message"
+        },
+        {
+          "name": "method",
+          "regex": "method"
+        },
+        {
+          "name": "middle",
+          "regex": "middle"
+        },
+        {
+          "name": "might",
+          "regex": "might"
+        },
+        {
+          "name": "military",
+          "regex": "military"
+        },
+        {
+          "name": "million",
+          "regex": "million"
+        },
+        {
+          "name": "mind",
+          "regex": "mind"
+        },
+        {
+          "name": "minute",
+          "regex": "minute"
+        },
+        {
+          "name": "miss",
+          "regex": "miss"
+        },
+        {
+          "name": "mission",
+          "regex": "mission"
+        },
+        {
+          "name": "model",
+          "regex": "model"
+        },
+        {
+          "name": "modern",
+          "regex": "modern"
+        },
+        {
+          "name": "moment",
+          "regex": "moment"
+        },
+        {
+          "name": "money",
+          "regex": "money"
+        },
+        {
+          "name": "month",
+          "regex": "month"
+        },
+        {
+          "name": "more",
+          "regex": "more"
+        },
+        {
+          "name": "morning",
+          "regex": "morning"
+        },
+        {
+          "name": "most",
+          "regex": "most"
+        },
+        {
+          "name": "mother",
+          "regex": "mother"
+        },
+        {
+          "name": "mouth",
+          "regex": "mouth"
+        },
+        {
+          "name": "move",
+          "regex": "move"
+        },
+        {
+          "name": "movement",
+          "regex": "movement"
+        },
+        {
+          "name": "movie",
+          "regex": "movie"
+        },
+        {
+          "name": "Mr",
+          "regex": "Mr"
+        },
+        {
+          "name": "Mrs",
+          "regex": "Mrs"
+        },
+        {
+          "name": "much",
+          "regex": "much"
+        },
+        {
+          "name": "music",
+          "regex": "music"
+        },
+        {
+          "name": "must",
+          "regex": "must"
+        },
+        {
+          "name": "my",
+          "regex": "my"
+        },
+        {
+          "name": "myself",
+          "regex": "myself"
+        },
+        {
+          "name": "name",
+          "regex": "name"
+        },
+        {
+          "name": "nation",
+          "regex": "nation"
+        },
+        {
+          "name": "national",
+          "regex": "national"
+        },
+        {
+          "name": "natural",
+          "regex": "natural"
+        },
+        {
+          "name": "nature",
+          "regex": "nature"
+        },
+        {
+          "name": "near",
+          "regex": "near"
+        },
+        {
+          "name": "nearly",
+          "regex": "nearly"
+        },
+        {
+          "name": "necessary",
+          "regex": "necessary"
+        },
+        {
+          "name": "need",
+          "regex": "need"
+        },
+        {
+          "name": "network",
+          "regex": "network"
+        },
+        {
+          "name": "never",
+          "regex": "never"
+        },
+        {
+          "name": "new",
+          "regex": "new"
+        },
+        {
+          "name": "news",
+          "regex": "news"
+        },
+        {
+          "name": "newspaper",
+          "regex": "newspaper"
+        },
+        {
+          "name": "next",
+          "regex": "next"
+        },
+        {
+          "name": "nice",
+          "regex": "nice"
+        },
+        {
+          "name": "night",
+          "regex": "night"
+        },
+        {
+          "name": "no",
+          "regex": "no"
+        },
+        {
+          "name": "none",
+          "regex": "none"
+        },
+        {
+          "name": "nor",
+          "regex": "nor"
+        },
+        {
+          "name": "north",
+          "regex": "north"
+        },
+        {
+          "name": "not",
+          "regex": "not"
+        },
+        {
+          "name": "note",
+          "regex": "note"
+        },
+        {
+          "name": "nothing",
+          "regex": "nothing"
+        },
+        {
+          "name": "notice",
+          "regex": "notice"
+        },
+        {
+          "name": "now",
+          "regex": "now"
+        },
+        {
+          "name": "n't",
+          "regex": "n't"
+        },
+        {
+          "name": "number",
+          "regex": "number"
+        },
+        {
+          "name": "occur",
+          "regex": "occur"
+        },
+        {
+          "name": "of",
+          "regex": "of"
+        },
+        {
+          "name": "off",
+          "regex": "off"
+        },
+        {
+          "name": "offer",
+          "regex": "offer"
+        },
+        {
+          "name": "office",
+          "regex": "office"
+        },
+        {
+          "name": "officer",
+          "regex": "officer"
+        },
+        {
+          "name": "official",
+          "regex": "official"
+        },
+        {
+          "name": "often",
+          "regex": "often"
+        },
+        {
+          "name": "oh",
+          "regex": "oh"
+        },
+        {
+          "name": "oil",
+          "regex": "oil"
+        },
+        {
+          "name": "ok",
+          "regex": "ok"
+        },
+        {
+          "name": "old",
+          "regex": "old"
+        },
+        {
+          "name": "on",
+          "regex": "on"
+        },
+        {
+          "name": "once",
+          "regex": "once"
+        },
+        {
+          "name": "one",
+          "regex": "one"
+        },
+        {
+          "name": "only",
+          "regex": "only"
+        },
+        {
+          "name": "onto",
+          "regex": "onto"
+        },
+        {
+          "name": "open",
+          "regex": "open"
+        },
+        {
+          "name": "operation",
+          "regex": "operation"
+        },
+        {
+          "name": "opportunity",
+          "regex": "opportunity"
+        },
+        {
+          "name": "option",
+          "regex": "option"
+        },
+        {
+          "name": "or",
+          "regex": "or"
+        },
+        {
+          "name": "order",
+          "regex": "order"
+        },
+        {
+          "name": "organization",
+          "regex": "organization"
+        },
+        {
+          "name": "other",
+          "regex": "other"
+        },
+        {
+          "name": "others",
+          "regex": "others"
+        },
+        {
+          "name": "our",
+          "regex": "our"
+        },
+        {
+          "name": "out",
+          "regex": "out"
+        },
+        {
+          "name": "outside",
+          "regex": "outside"
+        },
+        {
+          "name": "over",
+          "regex": "over"
+        },
+        {
+          "name": "own",
+          "regex": "own"
+        },
+        {
+          "name": "owner",
+          "regex": "owner"
+        },
+        {
+          "name": "page",
+          "regex": "page"
+        },
+        {
+          "name": "pain",
+          "regex": "pain"
+        },
+        {
+          "name": "painting",
+          "regex": "painting"
+        },
+        {
+          "name": "paper",
+          "regex": "paper"
+        },
+        {
+          "name": "parent",
+          "regex": "parent"
+        },
+        {
+          "name": "part",
+          "regex": "part"
+        },
+        {
+          "name": "participant",
+          "regex": "participant"
+        },
+        {
+          "name": "particular",
+          "regex": "particular"
+        },
+        {
+          "name": "particularly",
+          "regex": "particularly"
+        },
+        {
+          "name": "partner",
+          "regex": "partner"
+        },
+        {
+          "name": "party",
+          "regex": "party"
+        },
+        {
+          "name": "pass",
+          "regex": "pass"
+        },
+        {
+          "name": "past",
+          "regex": "past"
+        },
+        {
+          "name": "patient",
+          "regex": "patient"
+        },
+        {
+          "name": "pattern",
+          "regex": "pattern"
+        },
+        {
+          "name": "pay",
+          "regex": "pay"
+        },
+        {
+          "name": "peace",
+          "regex": "peace"
+        },
+        {
+          "name": "people",
+          "regex": "people"
+        },
+        {
+          "name": "per",
+          "regex": "per"
+        },
+        {
+          "name": "perform",
+          "regex": "perform"
+        },
+        {
+          "name": "performance",
+          "regex": "performance"
+        },
+        {
+          "name": "perhaps",
+          "regex": "perhaps"
+        },
+        {
+          "name": "period",
+          "regex": "period"
+        },
+        {
+          "name": "person",
+          "regex": "person"
+        },
+        {
+          "name": "personal",
+          "regex": "personal"
+        },
+        {
+          "name": "phone",
+          "regex": "phone"
+        },
+        {
+          "name": "physical",
+          "regex": "physical"
+        },
+        {
+          "name": "pick",
+          "regex": "pick"
+        },
+        {
+          "name": "picture",
+          "regex": "picture"
+        },
+        {
+          "name": "piece",
+          "regex": "piece"
+        },
+        {
+          "name": "place",
+          "regex": "place"
+        },
+        {
+          "name": "plan",
+          "regex": "plan"
+        },
+        {
+          "name": "plant",
+          "regex": "plant"
+        },
+        {
+          "name": "play",
+          "regex": "play"
+        },
+        {
+          "name": "player",
+          "regex": "player"
+        },
+        {
+          "name": "PM",
+          "regex": "PM"
+        },
+        {
+          "name": "point",
+          "regex": "point"
+        },
+        {
+          "name": "police",
+          "regex": "police"
+        },
+        {
+          "name": "policy",
+          "regex": "policy"
+        },
+        {
+          "name": "political",
+          "regex": "political"
+        },
+        {
+          "name": "politics",
+          "regex": "politics"
+        },
+        {
+          "name": "poor",
+          "regex": "poor"
+        },
+        {
+          "name": "popular",
+          "regex": "popular"
+        },
+        {
+          "name": "population",
+          "regex": "population"
+        },
+        {
+          "name": "position",
+          "regex": "position"
+        },
+        {
+          "name": "positive",
+          "regex": "positive"
+        },
+        {
+          "name": "possible",
+          "regex": "possible"
+        },
+        {
+          "name": "power",
+          "regex": "power"
+        },
+        {
+          "name": "practice",
+          "regex": "practice"
+        },
+        {
+          "name": "prepare",
+          "regex": "prepare"
+        },
+        {
+          "name": "present",
+          "regex": "present"
+        },
+        {
+          "name": "president",
+          "regex": "president"
+        },
+        {
+          "name": "pressure",
+          "regex": "pressure"
+        },
+        {
+          "name": "pretty",
+          "regex": "pretty"
+        },
+        {
+          "name": "prevent",
+          "regex": "prevent"
+        },
+        {
+          "name": "price",
+          "regex": "price"
+        },
+        {
+          "name": "private",
+          "regex": "private"
+        },
+        {
+          "name": "probably",
+          "regex": "probably"
+        },
+        {
+          "name": "problem",
+          "regex": "problem"
+        },
+        {
+          "name": "process",
+          "regex": "process"
+        },
+        {
+          "name": "produce",
+          "regex": "produce"
+        },
+        {
+          "name": "product",
+          "regex": "product"
+        },
+        {
+          "name": "production",
+          "regex": "production"
+        },
+        {
+          "name": "professional",
+          "regex": "professional"
+        },
+        {
+          "name": "professor",
+          "regex": "professor"
+        },
+        {
+          "name": "program",
+          "regex": "program"
+        },
+        {
+          "name": "project",
+          "regex": "project"
+        },
+        {
+          "name": "property",
+          "regex": "property"
+        },
+        {
+          "name": "protect",
+          "regex": "protect"
+        },
+        {
+          "name": "prove",
+          "regex": "prove"
+        },
+        {
+          "name": "provide",
+          "regex": "provide"
+        },
+        {
+          "name": "public",
+          "regex": "public"
+        },
+        {
+          "name": "pull",
+          "regex": "pull"
+        },
+        {
+          "name": "purpose",
+          "regex": "purpose"
+        },
+        {
+          "name": "push",
+          "regex": "push"
+        },
+        {
+          "name": "put",
+          "regex": "put"
+        },
+        {
+          "name": "quality",
+          "regex": "quality"
+        },
+        {
+          "name": "question",
+          "regex": "question"
+        },
+        {
+          "name": "quickly",
+          "regex": "quickly"
+        },
+        {
+          "name": "quite",
+          "regex": "quite"
+        },
+        {
+          "name": "race",
+          "regex": "race"
+        },
+        {
+          "name": "radio",
+          "regex": "radio"
+        },
+        {
+          "name": "raise",
+          "regex": "raise"
+        },
+        {
+          "name": "range",
+          "regex": "range"
+        },
+        {
+          "name": "rate",
+          "regex": "rate"
+        },
+        {
+          "name": "rather",
+          "regex": "rather"
+        },
+        {
+          "name": "reach",
+          "regex": "reach"
+        },
+        {
+          "name": "read",
+          "regex": "read"
+        },
+        {
+          "name": "ready",
+          "regex": "ready"
+        },
+        {
+          "name": "real",
+          "regex": "real"
+        },
+        {
+          "name": "reality",
+          "regex": "reality"
+        },
+        {
+          "name": "realize",
+          "regex": "realize"
+        },
+        {
+          "name": "really",
+          "regex": "really"
+        },
+        {
+          "name": "reason",
+          "regex": "reason"
+        },
+        {
+          "name": "receive",
+          "regex": "receive"
+        },
+        {
+          "name": "recent",
+          "regex": "recent"
+        },
+        {
+          "name": "recently",
+          "regex": "recently"
+        },
+        {
+          "name": "recognize",
+          "regex": "recognize"
+        },
+        {
+          "name": "record",
+          "regex": "record"
+        },
+        {
+          "name": "red",
+          "regex": "red"
+        },
+        {
+          "name": "reduce",
+          "regex": "reduce"
+        },
+        {
+          "name": "reflect",
+          "regex": "reflect"
+        },
+        {
+          "name": "region",
+          "regex": "region"
+        },
+        {
+          "name": "relate",
+          "regex": "relate"
+        },
+        {
+          "name": "relationship",
+          "regex": "relationship"
+        },
+        {
+          "name": "religious",
+          "regex": "religious"
+        },
+        {
+          "name": "remain",
+          "regex": "remain"
+        },
+        {
+          "name": "remember",
+          "regex": "remember"
+        },
+        {
+          "name": "remove",
+          "regex": "remove"
+        },
+        {
+          "name": "report",
+          "regex": "report"
+        },
+        {
+          "name": "represent",
+          "regex": "represent"
+        },
+        {
+          "name": "Republican",
+          "regex": "Republican"
+        },
+        {
+          "name": "require",
+          "regex": "require"
+        },
+        {
+          "name": "research",
+          "regex": "research"
+        },
+        {
+          "name": "resource",
+          "regex": "resource"
+        },
+        {
+          "name": "respond",
+          "regex": "respond"
+        },
+        {
+          "name": "response",
+          "regex": "response"
+        },
+        {
+          "name": "responsibility",
+          "regex": "responsibility"
+        },
+        {
+          "name": "rest",
+          "regex": "rest"
+        },
+        {
+          "name": "result",
+          "regex": "result"
+        },
+        {
+          "name": "return",
+          "regex": "return"
+        },
+        {
+          "name": "reveal",
+          "regex": "reveal"
+        },
+        {
+          "name": "rich",
+          "regex": "rich"
+        },
+        {
+          "name": "right",
+          "regex": "right"
+        },
+        {
+          "name": "rise",
+          "regex": "rise"
+        },
+        {
+          "name": "risk",
+          "regex": "risk"
+        },
+        {
+          "name": "road",
+          "regex": "road"
+        },
+        {
+          "name": "rock",
+          "regex": "rock"
+        },
+        {
+          "name": "role",
+          "regex": "role"
+        },
+        {
+          "name": "room",
+          "regex": "room"
+        },
+        {
+          "name": "rule",
+          "regex": "rule"
+        },
+        {
+          "name": "run",
+          "regex": "run"
+        },
+        {
+          "name": "safe",
+          "regex": "safe"
+        },
+        {
+          "name": "same",
+          "regex": "same"
+        },
+        {
+          "name": "save",
+          "regex": "save"
+        },
+        {
+          "name": "say",
+          "regex": "say"
+        },
+        {
+          "name": "scene",
+          "regex": "scene"
+        },
+        {
+          "name": "school",
+          "regex": "school"
+        },
+        {
+          "name": "science",
+          "regex": "science"
+        },
+        {
+          "name": "scientist",
+          "regex": "scientist"
+        },
+        {
+          "name": "score",
+          "regex": "score"
+        },
+        {
+          "name": "sea",
+          "regex": "sea"
+        },
+        {
+          "name": "season",
+          "regex": "season"
+        },
+        {
+          "name": "seat",
+          "regex": "seat"
+        },
+        {
+          "name": "second",
+          "regex": "second"
+        },
+        {
+          "name": "section",
+          "regex": "section"
+        },
+        {
+          "name": "security",
+          "regex": "security"
+        },
+        {
+          "name": "see",
+          "regex": "see"
+        },
+        {
+          "name": "seek",
+          "regex": "seek"
+        },
+        {
+          "name": "seem",
+          "regex": "seem"
+        },
+        {
+          "name": "sell",
+          "regex": "sell"
+        },
+        {
+          "name": "send",
+          "regex": "send"
+        },
+        {
+          "name": "senior",
+          "regex": "senior"
+        },
+        {
+          "name": "sense",
+          "regex": "sense"
+        },
+        {
+          "name": "series",
+          "regex": "series"
+        },
+        {
+          "name": "serious",
+          "regex": "serious"
+        },
+        {
+          "name": "serve",
+          "regex": "serve"
+        },
+        {
+          "name": "service",
+          "regex": "service"
+        },
+        {
+          "name": "set",
+          "regex": "set"
+        },
+        {
+          "name": "seven",
+          "regex": "seven"
+        },
+        {
+          "name": "several",
+          "regex": "several"
+        },
+        {
+          "name": "sex",
+          "regex": "sex"
+        },
+        {
+          "name": "sexual",
+          "regex": "sexual"
+        },
+        {
+          "name": "shake",
+          "regex": "shake"
+        },
+        {
+          "name": "share",
+          "regex": "share"
+        },
+        {
+          "name": "she",
+          "regex": "she"
+        },
+        {
+          "name": "shoot",
+          "regex": "shoot"
+        },
+        {
+          "name": "short",
+          "regex": "short"
+        },
+        {
+          "name": "shot",
+          "regex": "shot"
+        },
+        {
+          "name": "should",
+          "regex": "should"
+        },
+        {
+          "name": "shoulder",
+          "regex": "shoulder"
+        },
+        {
+          "name": "show",
+          "regex": "show"
+        },
+        {
+          "name": "side",
+          "regex": "side"
+        },
+        {
+          "name": "sign",
+          "regex": "sign"
+        },
+        {
+          "name": "significant",
+          "regex": "significant"
+        },
+        {
+          "name": "similar",
+          "regex": "similar"
+        },
+        {
+          "name": "simple",
+          "regex": "simple"
+        },
+        {
+          "name": "simply",
+          "regex": "simply"
+        },
+        {
+          "name": "since",
+          "regex": "since"
+        },
+        {
+          "name": "sing",
+          "regex": "sing"
+        },
+        {
+          "name": "single",
+          "regex": "single"
+        },
+        {
+          "name": "sister",
+          "regex": "sister"
+        },
+        {
+          "name": "sit",
+          "regex": "sit"
+        },
+        {
+          "name": "site",
+          "regex": "site"
+        },
+        {
+          "name": "situation",
+          "regex": "situation"
+        },
+        {
+          "name": "six",
+          "regex": "six"
+        },
+        {
+          "name": "size",
+          "regex": "size"
+        },
+        {
+          "name": "skill",
+          "regex": "skill"
+        },
+        {
+          "name": "skin",
+          "regex": "skin"
+        },
+        {
+          "name": "small",
+          "regex": "small"
+        },
+        {
+          "name": "smile",
+          "regex": "smile"
+        },
+        {
+          "name": "so",
+          "regex": "so"
+        },
+        {
+          "name": "social",
+          "regex": "social"
+        },
+        {
+          "name": "society",
+          "regex": "society"
+        },
+        {
+          "name": "soldier",
+          "regex": "soldier"
+        },
+        {
+          "name": "some",
+          "regex": "some"
+        },
+        {
+          "name": "somebody",
+          "regex": "somebody"
+        },
+        {
+          "name": "someone",
+          "regex": "someone"
+        },
+        {
+          "name": "something",
+          "regex": "something"
+        },
+        {
+          "name": "sometimes",
+          "regex": "sometimes"
+        },
+        {
+          "name": "son",
+          "regex": "son"
+        },
+        {
+          "name": "song",
+          "regex": "song"
+        },
+        {
+          "name": "soon",
+          "regex": "soon"
+        },
+        {
+          "name": "sort",
+          "regex": "sort"
+        },
+        {
+          "name": "sound",
+          "regex": "sound"
+        },
+        {
+          "name": "source",
+          "regex": "source"
+        },
+        {
+          "name": "south",
+          "regex": "south"
+        },
+        {
+          "name": "southern",
+          "regex": "southern"
+        },
+        {
+          "name": "space",
+          "regex": "space"
+        },
+        {
+          "name": "speak",
+          "regex": "speak"
+        },
+        {
+          "name": "special",
+          "regex": "special"
+        },
+        {
+          "name": "specific",
+          "regex": "specific"
+        },
+        {
+          "name": "speech",
+          "regex": "speech"
+        },
+        {
+          "name": "spend",
+          "regex": "spend"
+        },
+        {
+          "name": "sport",
+          "regex": "sport"
+        },
+        {
+          "name": "spring",
+          "regex": "spring"
+        },
+        {
+          "name": "staff",
+          "regex": "staff"
+        },
+        {
+          "name": "stage",
+          "regex": "stage"
+        },
+        {
+          "name": "stand",
+          "regex": "stand"
+        },
+        {
+          "name": "standard",
+          "regex": "standard"
+        },
+        {
+          "name": "star",
+          "regex": "star"
+        },
+        {
+          "name": "start",
+          "regex": "start"
+        },
+        {
+          "name": "state",
+          "regex": "state"
+        },
+        {
+          "name": "statement",
+          "regex": "statement"
+        },
+        {
+          "name": "station",
+          "regex": "station"
+        },
+        {
+          "name": "stay",
+          "regex": "stay"
+        },
+        {
+          "name": "step",
+          "regex": "step"
+        },
+        {
+          "name": "still",
+          "regex": "still"
+        },
+        {
+          "name": "stock",
+          "regex": "stock"
+        },
+        {
+          "name": "stop",
+          "regex": "stop"
+        },
+        {
+          "name": "store",
+          "regex": "store"
+        },
+        {
+          "name": "story",
+          "regex": "story"
+        },
+        {
+          "name": "strategy",
+          "regex": "strategy"
+        },
+        {
+          "name": "street",
+          "regex": "street"
+        },
+        {
+          "name": "strong",
+          "regex": "strong"
+        },
+        {
+          "name": "structure",
+          "regex": "structure"
+        },
+        {
+          "name": "student",
+          "regex": "student"
+        },
+        {
+          "name": "study",
+          "regex": "study"
+        },
+        {
+          "name": "stuff",
+          "regex": "stuff"
+        },
+        {
+          "name": "style",
+          "regex": "style"
+        },
+        {
+          "name": "subject",
+          "regex": "subject"
+        },
+        {
+          "name": "success",
+          "regex": "success"
+        },
+        {
+          "name": "successful",
+          "regex": "successful"
+        },
+        {
+          "name": "such",
+          "regex": "such"
+        },
+        {
+          "name": "suddenly",
+          "regex": "suddenly"
+        },
+        {
+          "name": "suffer",
+          "regex": "suffer"
+        },
+        {
+          "name": "suggest",
+          "regex": "suggest"
+        },
+        {
+          "name": "summer",
+          "regex": "summer"
+        },
+        {
+          "name": "support",
+          "regex": "support"
+        },
+        {
+          "name": "sure",
+          "regex": "sure"
+        },
+        {
+          "name": "surface",
+          "regex": "surface"
+        },
+        {
+          "name": "system",
+          "regex": "system"
+        },
+        {
+          "name": "table",
+          "regex": "table"
+        },
+        {
+          "name": "take",
+          "regex": "take"
+        },
+        {
+          "name": "talk",
+          "regex": "talk"
+        },
+        {
+          "name": "task",
+          "regex": "task"
+        },
+        {
+          "name": "tax",
+          "regex": "tax"
+        },
+        {
+          "name": "teach",
+          "regex": "teach"
+        },
+        {
+          "name": "teacher",
+          "regex": "teacher"
+        },
+        {
+          "name": "team",
+          "regex": "team"
+        },
+        {
+          "name": "technology",
+          "regex": "technology"
+        },
+        {
+          "name": "television",
+          "regex": "television"
+        },
+        {
+          "name": "tell",
+          "regex": "tell"
+        },
+        {
+          "name": "ten",
+          "regex": "ten"
+        },
+        {
+          "name": "tend",
+          "regex": "tend"
+        },
+        {
+          "name": "term",
+          "regex": "term"
+        },
+        {
+          "name": "test",
+          "regex": "test"
+        },
+        {
+          "name": "than",
+          "regex": "than"
+        },
+        {
+          "name": "thank",
+          "regex": "thank"
+        },
+        {
+          "name": "that",
+          "regex": "that"
+        },
+        {
+          "name": "the",
+          "regex": "the"
+        },
+        {
+          "name": "their",
+          "regex": "their"
+        },
+        {
+          "name": "them",
+          "regex": "them"
+        },
+        {
+          "name": "themselves",
+          "regex": "themselves"
+        },
+        {
+          "name": "then",
+          "regex": "then"
+        },
+        {
+          "name": "theory",
+          "regex": "theory"
+        },
+        {
+          "name": "there",
+          "regex": "there"
+        },
+        {
+          "name": "these",
+          "regex": "these"
+        },
+        {
+          "name": "they",
+          "regex": "they"
+        },
+        {
+          "name": "thing",
+          "regex": "thing"
+        },
+        {
+          "name": "think",
+          "regex": "think"
+        },
+        {
+          "name": "third",
+          "regex": "third"
+        },
+        {
+          "name": "this",
+          "regex": "this"
+        },
+        {
+          "name": "those",
+          "regex": "those"
+        },
+        {
+          "name": "though",
+          "regex": "though"
+        },
+        {
+          "name": "thought",
+          "regex": "thought"
+        },
+        {
+          "name": "thousand",
+          "regex": "thousand"
+        },
+        {
+          "name": "threat",
+          "regex": "threat"
+        },
+        {
+          "name": "three",
+          "regex": "three"
+        },
+        {
+          "name": "through",
+          "regex": "through"
+        },
+        {
+          "name": "throughout",
+          "regex": "throughout"
+        },
+        {
+          "name": "throw",
+          "regex": "throw"
+        },
+        {
+          "name": "thus",
+          "regex": "thus"
+        },
+        {
+          "name": "time",
+          "regex": "time"
+        },
+        {
+          "name": "to",
+          "regex": "to"
+        },
+        {
+          "name": "today",
+          "regex": "today"
+        },
+        {
+          "name": "together",
+          "regex": "together"
+        },
+        {
+          "name": "tonight",
+          "regex": "tonight"
+        },
+        {
+          "name": "too",
+          "regex": "too"
+        },
+        {
+          "name": "top",
+          "regex": "top"
+        },
+        {
+          "name": "total",
+          "regex": "total"
+        },
+        {
+          "name": "tough",
+          "regex": "tough"
+        },
+        {
+          "name": "toward",
+          "regex": "toward"
+        },
+        {
+          "name": "town",
+          "regex": "town"
+        },
+        {
+          "name": "trade",
+          "regex": "trade"
+        },
+        {
+          "name": "traditional",
+          "regex": "traditional"
+        },
+        {
+          "name": "training",
+          "regex": "training"
+        },
+        {
+          "name": "travel",
+          "regex": "travel"
+        },
+        {
+          "name": "treat",
+          "regex": "treat"
+        },
+        {
+          "name": "treatment",
+          "regex": "treatment"
+        },
+        {
+          "name": "tree",
+          "regex": "tree"
+        },
+        {
+          "name": "trial",
+          "regex": "trial"
+        },
+        {
+          "name": "trip",
+          "regex": "trip"
+        },
+        {
+          "name": "trouble",
+          "regex": "trouble"
+        },
+        {
+          "name": "TRUE",
+          "regex": "TRUE"
+        },
+        {
+          "name": "truth",
+          "regex": "truth"
+        },
+        {
+          "name": "try",
+          "regex": "try"
+        },
+        {
+          "name": "turn",
+          "regex": "turn"
+        },
+        {
+          "name": "TV",
+          "regex": "TV"
+        },
+        {
+          "name": "two",
+          "regex": "two"
+        },
+        {
+          "name": "type",
+          "regex": "type"
+        },
+        {
+          "name": "under",
+          "regex": "under"
+        },
+        {
+          "name": "understand",
+          "regex": "understand"
+        },
+        {
+          "name": "unit",
+          "regex": "unit"
+        },
+        {
+          "name": "until",
+          "regex": "until"
+        },
+        {
+          "name": "up",
+          "regex": "up"
+        },
+        {
+          "name": "upon",
+          "regex": "upon"
+        },
+        {
+          "name": "us",
+          "regex": "us"
+        },
+        {
+          "name": "use",
+          "regex": "use"
+        },
+        {
+          "name": "usually",
+          "regex": "usually"
+        },
+        {
+          "name": "value",
+          "regex": "value"
+        },
+        {
+          "name": "various",
+          "regex": "various"
+        },
+        {
+          "name": "very",
+          "regex": "very"
+        },
+        {
+          "name": "victim",
+          "regex": "victim"
+        },
+        {
+          "name": "view",
+          "regex": "view"
+        },
+        {
+          "name": "violence",
+          "regex": "violence"
+        },
+        {
+          "name": "visit",
+          "regex": "visit"
+        },
+        {
+          "name": "voice",
+          "regex": "voice"
+        },
+        {
+          "name": "vote",
+          "regex": "vote"
+        },
+        {
+          "name": "wait",
+          "regex": "wait"
+        },
+        {
+          "name": "walk",
+          "regex": "walk"
+        },
+        {
+          "name": "wall",
+          "regex": "wall"
+        },
+        {
+          "name": "want",
+          "regex": "want"
+        },
+        {
+          "name": "war",
+          "regex": "war"
+        },
+        {
+          "name": "watch",
+          "regex": "watch"
+        },
+        {
+          "name": "water",
+          "regex": "water"
+        },
+        {
+          "name": "way",
+          "regex": "way"
+        },
+        {
+          "name": "we",
+          "regex": "we"
+        },
+        {
+          "name": "weapon",
+          "regex": "weapon"
+        },
+        {
+          "name": "wear",
+          "regex": "wear"
+        },
+        {
+          "name": "week",
+          "regex": "week"
+        },
+        {
+          "name": "weight",
+          "regex": "weight"
+        },
+        {
+          "name": "well",
+          "regex": "well"
+        },
+        {
+          "name": "west",
+          "regex": "west"
+        },
+        {
+          "name": "western",
+          "regex": "western"
+        },
+        {
+          "name": "what",
+          "regex": "what"
+        },
+        {
+          "name": "whatever",
+          "regex": "whatever"
+        },
+        {
+          "name": "when",
+          "regex": "when"
+        },
+        {
+          "name": "where",
+          "regex": "where"
+        },
+        {
+          "name": "whether",
+          "regex": "whether"
+        },
+        {
+          "name": "which",
+          "regex": "which"
+        },
+        {
+          "name": "while",
+          "regex": "while"
+        },
+        {
+          "name": "white",
+          "regex": "white"
+        },
+        {
+          "name": "who",
+          "regex": "who"
+        },
+        {
+          "name": "whole",
+          "regex": "whole"
+        },
+        {
+          "name": "whom",
+          "regex": "whom"
+        },
+        {
+          "name": "whose",
+          "regex": "whose"
+        },
+        {
+          "name": "why",
+          "regex": "why"
+        },
+        {
+          "name": "wide",
+          "regex": "wide"
+        },
+        {
+          "name": "wife",
+          "regex": "wife"
+        },
+        {
+          "name": "will",
+          "regex": "will"
+        },
+        {
+          "name": "win",
+          "regex": "win"
+        },
+        {
+          "name": "wind",
+          "regex": "wind"
+        },
+        {
+          "name": "window",
+          "regex": "window"
+        },
+        {
+          "name": "wish",
+          "regex": "wish"
+        },
+        {
+          "name": "with",
+          "regex": "with"
+        },
+        {
+          "name": "within",
+          "regex": "within"
+        },
+        {
+          "name": "without",
+          "regex": "without"
+        },
+        {
+          "name": "woman",
+          "regex": "woman"
+        },
+        {
+          "name": "wonder",
+          "regex": "wonder"
+        },
+        {
+          "name": "word",
+          "regex": "word"
+        },
+        {
+          "name": "work",
+          "regex": "work"
+        },
+        {
+          "name": "worker",
+          "regex": "worker"
+        },
+        {
+          "name": "world",
+          "regex": "world"
+        },
+        {
+          "name": "worry",
+          "regex": "worry"
+        },
+        {
+          "name": "would",
+          "regex": "would"
+        },
+        {
+          "name": "write",
+          "regex": "write"
+        },
+        {
+          "name": "writer",
+          "regex": "writer"
+        },
+        {
+          "name": "wrong",
+          "regex": "wrong"
+        },
+        {
+          "name": "yard",
+          "regex": "yard"
+        },
+        {
+          "name": "yeah",
+          "regex": "yeah"
+        },
+        {
+          "name": "year",
+          "regex": "year"
+        },
+        {
+          "name": "yes",
+          "regex": "yes"
+        },
+        {
+          "name": "yet",
+          "regex": "yet"
+        },
+        {
+          "name": "you",
+          "regex": "you"
+        },
+        {
+          "name": "young",
+          "regex": "young"
+        },
+        {
+          "name": "your",
+          "regex": "your"
+        },
+        {
+          "name": "yourself",
+          "regex": "yourself"
+        }
+      ]
+}

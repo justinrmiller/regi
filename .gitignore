@@ -13,3 +13,6 @@ Cargo.lock
 # Added by cargo
 
 /target
+
+# Data sets to test against
+yelp_academic_dataset_review.parquet

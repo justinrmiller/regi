@@ -1,0 +1,406 @@
+{
+    "name": "Common Identifiable Information",
+    "columns": ["text"],
+    "rules": [
+        {
+          "name": "a",
+          "regex": "a"
+        },
+        {
+          "name": "ability",
+          "regex": "ability"
+        },
+        {
+          "name": "able",
+          "regex": "able"
+        },
+        {
+          "name": "about",
+          "regex": "about"
+        },
+        {
+          "name": "above",
+          "regex": "above"
+        },
+        {
+          "name": "accept",
+          "regex": "accept"
+        },
+        {
+          "name": "according",
+          "regex": "according"
+        },
+        {
+          "name": "account",
+          "regex": "account"
+        },
+        {
+          "name": "across",
+          "regex": "across"
+        },
+        {
+          "name": "act",
+          "regex": "act"
+        },
+        {
+          "name": "action",
+          "regex": "action"
+        },
+        {
+          "name": "activity",
+          "regex": "activity"
+        },
+        {
+          "name": "actually",
+          "regex": "actually"
+        },
+        {
+          "name": "add",
+          "regex": "add"
+        },
+        {
+          "name": "address",
+          "regex": "address"
+        },
+        {
+          "name": "administration",
+          "regex": "administration"
+        },
+        {
+          "name": "admit",
+          "regex": "admit"
+        },
+        {
+          "name": "adult",
+          "regex": "adult"
+        },
+        {
+          "name": "affect",
+          "regex": "affect"
+        },
+        {
+          "name": "after",
+          "regex": "after"
+        },
+        {
+          "name": "again",
+          "regex": "again"
+        },
+        {
+          "name": "against",
+          "regex": "against"
+        },
+        {
+          "name": "age",
+          "regex": "age"
+        },
+        {
+          "name": "agency",
+          "regex": "agency"
+        },
+        {
+          "name": "agent",
+          "regex": "agent"
+        },
+        {
+          "name": "ago",
+          "regex": "ago"
+        },
+        {
+          "name": "agree",
+          "regex": "agree"
+        },
+        {
+          "name": "agreement",
+          "regex": "agreement"
+        },
+        {
+          "name": "ahead",
+          "regex": "ahead"
+        },
+        {
+          "name": "air",
+          "regex": "air"
+        },
+        {
+          "name": "all",
+          "regex": "all"
+        },
+        {
+          "name": "allow",
+          "regex": "allow"
+        },
+        {
+          "name": "almost",
+          "regex": "almost"
+        },
+        {
+          "name": "alone",
+          "regex": "alone"
+        },
+        {
+          "name": "along",
+          "regex": "along"
+        },
+        {
+          "name": "already",
+          "regex": "already"
+        },
+        {
+          "name": "also",
+          "regex": "also"
+        },
+        {
+          "name": "although",
+          "regex": "although"
+        },
+        {
+          "name": "always",
+          "regex": "always"
+        },
+        {
+          "name": "American",
+          "regex": "American"
+        },
+        {
+          "name": "among",
+          "regex": "among"
+        },
+        {
+          "name": "amount",
+          "regex": "amount"
+        },
+        {
+          "name": "analysis",
+          "regex": "analysis"
+        },
+        {
+          "name": "and",
+          "regex": "and"
+        },
+        {
+          "name": "animal",
+          "regex": "animal"
+        },
+        {
+          "name": "another",
+          "regex": "another"
+        },
+        {
+          "name": "answer",
+          "regex": "answer"
+        },
+        {
+          "name": "any",
+          "regex": "any"
+        },
+        {
+          "name": "anyone",
+          "regex": "anyone"
+        },
+        {
+          "name": "anything",
+          "regex": "anything"
+        },
+        {
+          "name": "appear",
+          "regex": "appear"
+        },
+        {
+          "name": "apply",
+          "regex": "apply"
+        },
+        {
+          "name": "approach",
+          "regex": "approach"
+        },
+        {
+          "name": "area",
+          "regex": "area"
+        },
+        {
+          "name": "argue",
+          "regex": "argue"
+        },
+        {
+          "name": "arm",
+          "regex": "arm"
+        },
+        {
+          "name": "around",
+          "regex": "around"
+        },
+        {
+          "name": "arrive",
+          "regex": "arrive"
+        },
+        {
+          "name": "art",
+          "regex": "art"
+        },
+        {
+          "name": "article",
+          "regex": "article"
+        },
+        {
+          "name": "artist",
+          "regex": "artist"
+        },
+        {
+          "name": "as",
+          "regex": "as"
+        },
+        {
+          "name": "ask",
+          "regex": "ask"
+        },
+        {
+          "name": "assume",
+          "regex": "assume"
+        },
+        {
+          "name": "at",
+          "regex": "at"
+        },
+        {
+          "name": "attack",
+          "regex": "attack"
+        },
+        {
+          "name": "attention",
+          "regex": "attention"
+        },
+        {
+          "name": "attorney",
+          "regex": "attorney"
+        },
+        {
+          "name": "audience",
+          "regex": "audience"
+        },
+        {
+          "name": "author",
+          "regex": "author"
+        },
+        {
+          "name": "authority",
+          "regex": "authority"
+        },
+        {
+          "name": "available",
+          "regex": "available"
+        },
+        {
+          "name": "avoid",
+          "regex": "avoid"
+        },
+        {
+          "name": "away",
+          "regex": "away"
+        },
+        {
+          "name": "baby",
+          "regex": "baby"
+        },
+        {
+          "name": "back",
+          "regex": "back"
+        },
+        {
+          "name": "bad",
+          "regex": "bad"
+        },
+        {
+          "name": "bag",
+          "regex": "bag"
+        },
+        {
+          "name": "ball",
+          "regex": "ball"
+        },
+        {
+          "name": "bank",
+          "regex": "bank"
+        },
+        {
+          "name": "bar",
+          "regex": "bar"
+        },
+        {
+          "name": "base",
+          "regex": "base"
+        },
+        {
+          "name": "be",
+          "regex": "be"
+        },
+        {
+          "name": "beat",
+          "regex": "beat"
+        },
+        {
+          "name": "beautiful",
+          "regex": "beautiful"
+        },
+        {
+          "name": "because",
+          "regex": "because"
+        },
+        {
+          "name": "become",
+          "regex": "become"
+        },
+        {
+          "name": "bed",
+          "regex": "bed"
+        },
+        {
+          "name": "before",
+          "regex": "before"
+        },
+        {
+          "name": "begin",
+          "regex": "begin"
+        },
+        {
+          "name": "behavior",
+          "regex": "behavior"
+        },
+        {
+          "name": "behind",
+          "regex": "behind"
+        },
+        {
+          "name": "believe",
+          "regex": "believe"
+        },
+        {
+          "name": "benefit",
+          "regex": "benefit"
+        },
+        {
+          "name": "best",
+          "regex": "best"
+        },
+        {
+          "name": "better",
+          "regex": "better"
+        },
+        {
+          "name": "between",
+          "regex": "between"
+        },
+        {
+          "name": "beyond",
+          "regex": "beyond"
+        },
+        {
+          "name": "big",
+          "regex": "big"
+        },
+        {
+          "name": "bill",
+          "regex": "bill"
+        }
+      ]
+}
