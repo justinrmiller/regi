@@ -3,7 +3,7 @@ use parquet::record::RowAccessor;
 use serde::{Deserialize, Serialize};
 
 use std::usize;
-use std::collections::HashMap;
+use std::collections::BTreeMap;
 use std::{fs::File};
 use std::io::Read;
 use std::path::Path;
@@ -91,7 +91,7 @@ fn main() {
 
     let mut count = 0;
 
-    let mut regex_counts = HashMap::new();
+    let mut regex_counts = BTreeMap::new();
 
     let mut start = Instant::now();
 
